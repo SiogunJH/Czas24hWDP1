@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProjektFlowChartWDP1/1.0.0": {
+        "runtime": {
+          "ProjektFlowChartWDP1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjektFlowChartWDP1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
